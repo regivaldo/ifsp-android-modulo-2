@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="title">Bem Vindo a Calculadora</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="viagem">Viagem</string>
+    <string name="calculadora_de_viagem">Calculadora de Viagem</string>
+    <string name="dist_nica">Distânica</string>
+    <string name="valor_do_litro_de_combust_vel">Valor do Litro de Combustível</string>
+    <string name="m_dia_de_km_por_litro">Média de KM por litro</string>
+    <string name="calcular">Calcular</string>
+    <string name="voltar">Voltar</string>
+    <string name="dividir">Dividir</string>
+    <string name="multiplicar">Multiplicar</string>
+    <string name="subtrair">Subtrair</string>
+    <string name="somar">Somar</string>
+</resources>
